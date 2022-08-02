@@ -19,16 +19,16 @@ Great and importand job 👍
 
 Let`s continue. Good luck everyone
 
-## Linux CLI, and HTTP
+# Linux CLI, and HTTP
 
 ![Alt text](/task_linux_cli/1_module.png?raw=true "1_module")
 ![Alt text](/task_linux_cli/2_module.png?raw=true "2_module")
 ![Alt text](/task_linux_cli/3_module.png?raw=true "3_module")
 ![Alt text](/task_linux_cli/4_module.png?raw=true "4_module")
 
-##Task №1: I can't imagine how people worked before they сreated the first visual shell. It was terrible. And procesess was ten times slower. Therefore, the burden on a modern programmer is very large (when compared with the past).
+## Task №1: I can't imagine how people worked before they сreated the first visual shell. It was terrible. And procesess was ten times slower. Therefore, the burden on a modern programmer is very large (when compared with the past).
 I saw a lot of commands that will make it easier to work with GIT and set up a web server. In some cases - linux commands can be better than macOS commands. the "man" command is especially useful, which will help you solve any problem in Linux
 
-##Task №2: I taught backend. Thats why a lot of the basics were not new to me. I repeated the messages of the answers and learned a few new ones. Headings are overly detailed. In general, I think that the article is very difficult for beginners.
+## Task №2: I taught backend. Thats why a lot of the basics were not new to me. I repeated the messages of the answers and learned a few new ones. Headings are overly detailed. In general, I think that the article is very difficult for beginners.
 
-##Task №3: There was a lot of new unteresting material here. It was especially interesting to learn about hash and cache memory. I did not know that it is on proxy servers too. I thought that cache memory can exist only in user's PC )
+## Task №3: There was a lot of new unteresting material here. It was especially interesting to learn about hash and cache memory. I did not know that it is on proxy servers too. I thought that cache memory can exist only in user's PC )
