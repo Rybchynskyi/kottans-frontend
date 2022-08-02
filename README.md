@@ -24,7 +24,7 @@ Let`s continue. Good luck everyone
 ![Alt text](/task_linux_cli/1_module.png?raw=true "1_module")
 ![Alt text](/task_linux_cli/2_module.png?raw=true "2_module")
 ![Alt text](/task_linux_cli/3_module.png?raw=true "3_module")
-![Alt text](/task_linux_cli/3_module.png?raw=true "4_module")
+![Alt text](/task_linux_cli/4_module.png?raw=true "4_module")
 
 ##Task №1: I can't imagine how people worked before they сreated the first visual shell. It was terrible. And procesess was ten times slower. Therefore, the burden on a modern programmer is very large (when compared with the past).
 I saw a lot of commands that will make it easier to work with GIT and set up a web server. In some cases - linux commands can be better than macOS commands. the "man" command is especially useful, which will help you solve any problem in Linux
