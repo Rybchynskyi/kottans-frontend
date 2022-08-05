@@ -44,11 +44,11 @@ There was a lot of new interesting material here. It was especially interesting 
 ![Alt text](/task_git_collaboration/learngitbranching.js_part_1.png?raw=true "learngitbranching.js part 1")
 ![Alt text](/task_git_collaboration/learngitbranching.js_part_2.png?raw=true "learngitbranching.js part 2")
 
-## Introduction to Git and GitHub (weeks 3 and 4):
+## Task №1: Introduction to Git and GitHub (weeks 3 and 4):
 Forks is a really interesting thing. Because you can improve other projects, or you can ask for help to others.
 Issues help with productive work.
 
-## learngitbranching.js.org:
+## Task №2: learngitbranching.js.org:
 - Cherry-pick - copy other commits to HEAD
 - Rebase - warning: it makes a straight line  from commits and rewrite them. Better to use just in my separated branch
 Other useful commands:
