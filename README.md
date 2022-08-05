@@ -52,4 +52,4 @@ Issues help with productive work.
 - Cherry-pick - copy other commits to HEAD
 - Rebase - warning: it makes a straight line  from commits and rewrite them. Better to use just in my separated branch
 Other useful commands:
-![Alt text](/pictures_for_notes/ How_to_use_GIT.png?raw=true "How to use GIT")
+![Alt text](/pictures_for_notes/How_to_use_GIT.png?raw=true "How to use GIT")
