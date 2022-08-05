@@ -3,13 +3,13 @@
 It's my repo repository for kottans
 
 My first expression about Git:
-Actually, I think that git is the most important thing in teamwork. It's like time-machine ⏱, that can move you in past statement of the project.
+Actually, I think that git is the most important thing in teamwork. It's like a time-machine ⏱, that can move you in past statement of the project.
 
 I can't imagine how developers worked before git was developed 😵‍💫
 
-The most important thing that I understand, is that you can make many branches. And in each branch you can code new features for the main project.
+The most important thing that I understood, is that you can make many branches. And in each branch you can code new features for the main project.
 
-I think that I will use not all commands that I learned. But I must understand this commands for sure.
+I think that I will use not all commands which I learned. But I must understand these commands for sure.
 Because if you don't understand philosophy of git - you will make many mistakes in deployment.
 
 Especially thanks for the selection of learning materials.
@@ -28,11 +28,11 @@ Let's continue. Good luck everyone
 ![Alt text](/task_linux_cli/4_module.png?raw=true "4_module")
 
 ## Task №1:
-I can't imagine how people worked before they created the first visual shell. It was terrible. And processes were ten times slower. Therefore, the burden on a modern programmer is very large (when compared with the past).
-I saw a lot of commands that will make it easier to work with GIT and set up a web server. In some cases, Linux commands can be better than macOS commands. The "man" command is especially useful, which will help you solve any problem on Linux
+I can't imagine how people worked before they created the first visual shell. It was terrible. And processes were ten times slower. Therefore, the burden on a modern programmer is very large (compared with the past).
+I saw a lot of commands that could make it easier to work with GIT and set up a web server. In some cases, Linux commands can be better than macOS commands. The "man" command is especially useful, which will help you to solve any problems in Linux shell
 
 ## Task №2:
-I taught backend. That's why a lot of the basics were not new to me. I repeated the messages of the answers and learned a few new ones. Headings are overly detailed. In general, I think that the article is very difficult for beginners.
+I studied backend. That's why a lot of the basics were not new to me. I repeated the messages of the answers and learned a few new ones. Headings are overly detailed. In general, I think that the article is very difficult for beginners.
 
 ## Task №3:
 There was a lot of new interesting material here. It was especially interesting to learn about hash and cache memory. I did not know that it is on proxy servers too. I thought that cache memory can exist only in user's PC )
