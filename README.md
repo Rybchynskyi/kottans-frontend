@@ -65,3 +65,7 @@ My thoughts on the passed material:
 A very useful topic cinematic positions. I didn't know about these rules and how they affect in Google search.
 
 css - a lot of new material. Box-sizing (border-box - very convenient), floating elements and positions - were the most difficult parts of the css for me. I have teached additional material on this topic an i have to practice it.
+
+Some of usefull pictures:
+![Alt text](/pictures_for_notes/positions.png?raw=true "positions")
+![Alt text](/pictures_for_notes/display.png?raw=true "display")
