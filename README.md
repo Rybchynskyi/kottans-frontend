@@ -53,3 +53,15 @@ Issues help with productive work.
 - Rebase - warning: it makes a straight line  from commits and rewrite them. Better to use just in my separated branch
 Other useful commands:
 ![Alt text](/pictures_for_notes/How_to_use_GIT.png?raw=true "How to use GIT")
+
+# Front-End Basics
+
+## Intro to HTML and CSS
+![Alt text](/task_html_css_intro/codecademy.png?raw=true "codecademy")
+![Alt text](/task_html_css_intro/coursera_html.png?raw=true "coursera_html")
+![Alt text](/task_html_css_intro/coursera_css.png?raw=true "coursera_css")
+
+My thoughts on the passed material:
+A very useful topic cinematic positions. I didn't know about these rules and how they affect in Google search.
+
+css - a lot of new material. Box-sizing (border-box - very convenient), floating elements and positions - were the most difficult parts of the css for me. I have teached additional material on this topic an i have to practice it.
