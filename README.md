@@ -69,3 +69,16 @@ css - a lot of new material. Box-sizing (border-box - very convenient), floating
 Some of usefull pictures:
 ![Alt text](/pictures_for_notes/positions.png?raw=true "positions")
 ![Alt text](/pictures_for_notes/display.png?raw=true "display")
+
+## Responsive Web Design
+![Alt text](/task_responsive_web_design/flexbox_youtube.png?raw=true "flexbox_youtube")
+![Alt text](/task_responsive_web_design/froggy?raw=true "froggy")
+![Alt text](/task_responsive_web_design/grid_youtube.png?raw=true "grid_youtube")
+![Alt text](/task_responsive_web_design/grid_garden_result.png?raw=true "grid_garden_result")
+
+Flexbox is a awesome technology!  With the media requests together - it solves all issues of adaptive design.
+The approach is logical and simple. I need to try it in practice.
+
+Grid is even better than Flexbox. However, for me it seems more difficult in practice. I look forward to the next practical task. I will try to solve it using Grid technology.
+
+In the future, I plan to always work with Grid technologies. First mark up the page, and then fill it with content.
