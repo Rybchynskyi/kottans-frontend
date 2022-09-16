@@ -83,3 +83,16 @@ The approach is logical and simple. I need to try it in practice.
 Grid is even better than Flexbox. However, for me it seems more difficult in practice. I look forward to the next practical task. I will try to solve it using Grid technology.
 
 In the future, I plan to always work with Grid technologies. First mark up the page, and then fill it with content.
+
+## JS Basics
+![Alt text](/task_js_basics/js_basics_results.png?raw=true "flexbox_youtube")
+
+### Basic JavaScript
+The basics of the language are well written. I realized that the basis is the same as in php. but with its own syntax
+### ES6 Challenges
+Interesting innovations. Found the same innovations in PHP. I will use .map() .filter() and .reduce() for sure.
+.reduce() - difficult, but I think that everything will be understood in time
+### Basic Data Structures
+Very helpful exercises. I think that programming is impossible without arrays and objects
+### Basic Algorithm Scripting, Functional Programming and Algorithm Scripting Challenges
+Helpful exercises. They bring you closer to solving real business cases. But I feel thneedt more practice
